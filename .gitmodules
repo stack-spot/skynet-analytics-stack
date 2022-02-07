@@ -1,3 +1,6 @@
 [submodule "data-lake-app-py-template"]
 	path = data-lake-app-py-template
 	url = https://github.com/stack-spot/data-lake-app-py-template
+[submodule "gateway-pipeline-app-py-plugin"]
+	path = gateway-pipeline-app-py-plugin
+	url = https://github.com/stack-spot/gateway-pipeline-app-py-plugin
