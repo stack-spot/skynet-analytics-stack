@@ -1,3 +1,3 @@
 type: env
-description: template base para provisionar infraestrutura de dados serverless na AWS.
+description: Template base para provisionar infraestrutura de dados serverless na AWS.
 template: skynet-analytics-stack/datalake
