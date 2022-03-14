@@ -1,0 +1,18 @@
+description: Provisione infraestrutura para pipeline de dados como produto em escala. 
+
+name: skynet-analytics-stack
+
+displayName: Stack Analytics
+
+picture: "stack.png"
+
+category: Analytics
+
+compatibility:
+  - docker
+
+technologies: ["docker", "python", "AWS CDK"]
+
+about: about.md
+
+useCase: useCase.md
