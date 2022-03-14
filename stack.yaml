@@ -15,4 +15,7 @@ technologies: ["docker", "python", "AWS CDK"]
 
 about: about.md
 
-useCase: useCase.md
+useCases:
+  - title: Criar sua stack Analítica
+    content: useCase.md
+    stackfile: stackfiles/default.yaml
