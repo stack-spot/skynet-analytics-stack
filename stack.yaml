@@ -18,4 +18,4 @@ about: about.md
 useCases:
   - title: Criar sua stack Analítica
     content: useCase.md
-    stackfile: stackfiles/default.yaml
+    stackfile: stackfiles/datalake.yaml

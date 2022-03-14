@@ -2,13 +2,6 @@ A Stack Analytics, oferece um ambiente onde é possível coletar e analisar dado
 
 Vale ressaltar que nossa Stack  não insere código em sua aplicação. Provisionamos infraestrutura necessária para ingestão e processamento dos dados analíticos da sua aplicação. 
 
-Para utilizar nosso template utilize o comando do `cli` do `StackSpot`:
-
-```
-stk create env <env name> --template skynet-analytics-stack/datalake
-
-```
-
 ### Visão Geral
 O **datalake** adiciona em uma stack a capacidade de provisionar recursos de engenharia de dados.
 
